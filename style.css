@@ -1,0 +1,19 @@
+.qw{
+    display: flex;
+    justify-content: space-around;
+    gap: 0;
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+
+}
+.wq{
+margin-top: 15px;
+border: none;
+border-bottom: 1px solid grey;
+}
+.wq input{
+    border: none;
+}
